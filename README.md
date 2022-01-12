@@ -17,3 +17,4 @@ dependencia que se debe descargar.
 
 
 
+<img width="808" alt="uml-diagrama" src="https://user-images.githubusercontent.com/55326984/149168254-ea6cf1cd-15da-48b5-b491-5d30567788fb.png">
